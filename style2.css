@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color:red;
+    padding:20px;
+}
+
+#box1{
+    background-color:lightblue;
+    border:3px solid blue;
+    margin:20px;
+    padding:20px;
+    text-align: center;
+}
+
+#box2{
+    background-color:lightgreen;
+    border:3px solid green;
+    margin:20px;
+    padding:20px;
+    text-align: center;
+}
+
+#box3{
+    background-color:lightyellow;
+    border:3px solid orange;
+    margin:20px;
+    padding:20px;
+    text-align: center;
+}
+
+#box4{
+    background-color:pink;
+    border:3px solid red;
+    margin:20px;
+    padding:20px;
+    text-align: center;
+}
